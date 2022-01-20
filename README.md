@@ -6,7 +6,7 @@
 
 ## 🙇🏻‍♂️ Intro
 
-- My name is **Sunbeom Kweon** also goes by **Ben**. I'm from **Korea**.
+- 👦🏻 My name is **Sunbeom Kweon** also goes by **Ben**. I'm from **Korea**.
 
 - 📖 I'm currently studying at **California State University Long Beach, Computer Science major**.
 
