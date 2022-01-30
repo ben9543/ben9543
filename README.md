@@ -14,8 +14,9 @@
 
 - 🌱 I’m currently learning `Flutter` and `AWS Certified DevOps - Professional` certificate.
 
-- 🔥 I am passionate about learning UNIX system, especially `Ubuntu` and `Mac` Also, I love learning low-level networking.
+- 🔥 I am passionate about learning UNIX system + Networking.
 
+- 🥅 My goal is to become a block chain developer. I want to understand how exactly it works.
 
 ## 🖥 Technology & Tools
 
