@@ -40,4 +40,4 @@
 
 - Dr. Sorin's research lab system administrator @ CSULB
 
-- 2022 Beachacks 6.0 Committee - Website
+- [2022 Beachacks 6.0 Committee - Website](https://github.com/BeachHacks/BeachHacks-2022)
