@@ -10,9 +10,9 @@
 
 - 📖 I'm currently studying at **California State University Long Beach, Computer Science major**.
 
-- 🔭 I’m currently working on `2022 Google Solution Challenge`.
+- 🔭 I’m currently working on `Solving LeetCode Problems`.
 
-- 🌱 I’m currently learning `Flutter` and `AWS Certified DevOps - Professional` certificate.
+- 🌱 I’m currently learning `Alogorithms` and `AWS Certified DevOps - Professional` certificate.
 
 - 🔥 I am passionate about learning UNIX system + Networking.
 
