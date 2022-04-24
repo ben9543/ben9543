@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on `Solving LeetCode Problems`.
 
-- 🌱 I’m currently learning `Alogorithms` and `AWS Certified DevOps - Professional` certificate.
+- 🌱 I’m currently learning `JavaScript` and `Solidity`.
 
 - 🔥 I am passionate about learning UNIX system + Networking.
 
-- 🥅 My goal is to become a block chain developer. I want to understand how exactly it works.
+- 🥅  My goal is to become an expert using `AWS` & `blockchain`.
 
 ## 🖥 Technology & Tools
 
