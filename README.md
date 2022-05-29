@@ -10,7 +10,7 @@
 
 - 📖 I'm currently studying at **California State University Long Beach, Computer Science major**.
 
-- 🔭 I’m currently working on `Solving LeetCode Problems`.
+- 🔭 I’m currently working on `CTI Accelerate Program for Summer Internship 2022 - 2023`.
 
 - 🌱 I’m currently learning `JavaScript` and `Solidity`.
 
