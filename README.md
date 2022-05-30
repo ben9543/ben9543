@@ -26,7 +26,9 @@
 
 - Web: ![](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat-square&logo=nodedotjs&logoColor=87C000&color=87C000) ![](https://img.shields.io/badge/Frontend-React-informational?style=flat-square&logo=react&logoColor=61DAFB&color=61DAFB) ![](https://img.shields.io/badge/Web-PHP-informational?style=flat-square&logo=php&color=8993be)
 
-- DevOps: ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square&color=FF9900&logo=amazonaws&logoColor=FF9900) ![](https://img.shields.io/badge/Terminal-Bash-informational?style=flat-square&logo=gnubash&color=000&logoColor=000) 
+- Cloud: ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square&color=FF9900&logo=amazonaws&logoColor=FF9900) 
+
+- DevOps: ![](https://img.shields.io/badge/Terminal-Bash-informational?style=flat-square&logo=gnubash&color=000&logoColor=000) 
 
 - Editors: ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat-square&color=007ACC&logo=visualstudiocode&logoColor=007ACC) ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat-square&color=008000&logo=vim&logoColor=008000)
 
