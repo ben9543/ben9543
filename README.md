@@ -18,6 +18,8 @@
 
 - 🥅  My goal is to become an expert using `AWS`.
 
+- ✍🏻 I uploads posts about AWS services [Here](https://dev.to/_ben)
+
 ## 🖥 Technology & Tools
 
 - Langauges: ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=Javascript&logoColor=F7DF1E&color=F7DF1E)  ![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=FF0000&color=5382a1) ![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=cplusplus&logoColor=FF69B4&color=FF69B4) ![](https://img.shields.io/badge/Scrapping%20&%20Algorithms-Python-informational?style=flat-square&logo=python&logoColor=3776AB&color=3776AB)
