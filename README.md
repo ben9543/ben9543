@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning `JavaScript` and `Solidity`.
 
-- 🔥 I am passionate about learning `blockchain` and its network structure(not cryptocurrentcy!).
+- 🔥 I am passionate about learning `blockchain` and its `network structure` (not cryptocurrentcy!).
 
 - 🥅  My goal is to become an expert using `AWS`.
 
