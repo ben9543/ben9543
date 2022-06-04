@@ -18,7 +18,7 @@
 
 - 🥅  My goal is to become an expert using `AWS`.
 
-- ✍🏻  I upload posts about AWS services @ [here](https://dev.to/_ben)
+- ✍🏻   I upload posts about AWS services @ [here](https://dev.to/_ben)
 
 ## 🖥 Technology & Tools
 
