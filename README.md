@@ -18,7 +18,7 @@
 
 - 🥅  My goal is to become an expert using `AWS`.
 
-- ✍🏻   I upload posts about AWS services @ [here](https://dev.to/_ben)
+- ✍🏻   [I upload posts about AWS services.](https://dev.to/_ben)
 
 ## 🖥 Technology & Tools
 
@@ -36,7 +36,7 @@
 
 ## 🔖 Certificates
 
-- AWS Certified Developer - Associate
+- [AWS Certified Developer - Associate](https://www.credly.com/badges/e394da5e-0a85-4863-9585-e8ecf5e37c44?source=linked_in_profile)
 
 ## 🗄 Experience
 
