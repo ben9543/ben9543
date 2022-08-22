@@ -34,6 +34,18 @@
 
 - Editors: ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat-square&color=007ACC&logo=visualstudiocode&logoColor=007ACC) ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat-square&color=008000&logo=vim&logoColor=008000)
 
+## 🗃️ Featured Projects
+
+- Frontend
+
+  - [Food Truck Tracker](https://foodtruck-tracker-demo.netlify.app/)
+
+  - [CSULB Ranker](https://master--csulb-ranker.netlify.app/)
+
+- Backend & Cloud
+
+  - [ASDI Hackathon](https://github.com/ben9543/Amazon-Sustainability-Data-Initiative-ASDI-Global-Hackathon)
+
 ## 🔖 Certificates
 
 - [AWS Certified Developer - Associate](https://www.credly.com/badges/e394da5e-0a85-4863-9585-e8ecf5e37c44?source=linked_in_profile)
