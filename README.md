@@ -46,10 +46,4 @@
 
 ## 🗄 Experience
 
-- Incoming SWE intern @ Clutchshipper
-
-- Research Assistant @ CSULB
-
-- College of Engineering Computer Science Tutor @ CSULB
-
-- Dr. Sorin's research lab system administrator @ CSULB
+- Software Developer @ Ericsson
