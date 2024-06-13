@@ -36,15 +36,9 @@
 
 ## 🗃️ Featured Projects
 
-- Frontend
+- [Clutch Shipper V2](https://clutchshipper.com/)
 
-  - [Food Truck Tracker](https://foodtruck-tracker-demo.netlify.app/)
 
-  - [CSULB Ranker](https://master--csulb-ranker.netlify.app/)
-
-- Backend & Cloud
-
-  - [ASDI Hackathon](https://github.com/ben9543/Amazon-Sustainability-Data-Initiative-ASDI-Global-Hackathon)
 
 ## 🔖 Certificates
 
