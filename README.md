@@ -6,19 +6,7 @@
 
 ## 🙇🏻‍♂️ Intro
 
-- 👦🏻 My name is **Sunbeom Kweon**. I'm from **Korea**.
-
-- 📖 I'm currently studying at **California State University Long Beach, Computer Science major**.
-
-- 🔭 I’m currently participating **CTI Accelerate Program for Summer Internship 2022 - 2023**.
-
-- 🌱 I’m currently learning `JavaScript` and `Solidity`.
-
-- 🔥 I am passionate about learning `blockchain` and its `network structure` (not cryptocurrentcy!).
-
-- 🥅  My goal is to become an expert using `AWS`.
-
-- ✍🏻  [Personal blog](https://dev.to/_ben)
+Hello from Korea :) 
 
 ## 🖥 Technology & Tools
 
